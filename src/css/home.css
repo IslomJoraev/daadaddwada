@@ -1,0 +1,45 @@
+.main_img {
+
+    
+    img {
+        width: 200px;
+        margin-top: -30px;
+    }
+       
+}
+
+.padding{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    align-items: cente;
+     
+}   
+
+.heva i{
+   margin: 5px ; 
+   width: 10px;
+   height: 10px;
+}
+
+
+.heva h1 {
+height: px;
+}
+@media(max-width: 768px){
+    .main_img img{
+        margin-left: -100px;
+        margin-top: -90px;
+        width: 150px;
+        height: 150px;
+    }
+    .flex{
+        display: block;
+    }   
+    
+}

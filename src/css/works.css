@@ -1,0 +1,19 @@
+.cards_7 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.Header_9 h1 {
+    text-align: center;
+    margin-top: 70px;
+}
+.proektlar{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+    

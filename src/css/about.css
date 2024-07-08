@@ -1,0 +1,49 @@
+.about{
+    
+    position: absolute;
+    left: 15.5%;
+    top: 25%;
+}
+.about p{
+    max-width: 600px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+.about .skill {
+    margin-top: 50px;
+}
+
+.about .skills .skill{
+    max-width: 900px; 
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.about .skills .skill h3{
+    width: 150px;
+}
+
+.about .skills .skill hr{
+    padding: 12px 0;
+    background-color: blue;
+    border-radius: 20px;
+    margin-left: 20px;
+
+}
+.fikirlarrim{
+    margin-top: 50px;
+    
+}
+
+@media (max-width: 1070px){
+    .skill{
+        flex-direction: column;
+    }
+}
+
+
+
+
